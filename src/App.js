@@ -5,6 +5,7 @@ import LandingPage from './unAuth/LandingPage';
 import './App.css';
 import './firebase';
 
+//this appears to be a cool app!
 function App() {
   return (
     <div className="app-structure-container">
