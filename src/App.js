@@ -5,13 +5,14 @@ import LandingPage from './unAuth/LandingPage';
 import './App.css';
 import './firebase';
 
+//this appears to be a cool app!
 function App() {
   return (
     <div className="app-structure-container">
       <Helmet>
         <meta
           name="description"
-          content="TubeStamp is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
+          content="Coffeeify is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
         />
         <meta
           name="keywords"
